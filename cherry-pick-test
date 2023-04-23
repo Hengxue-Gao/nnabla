@@ -1,0 +1,3 @@
+git cherry-pick
+for multi-branch, just pick some commit to another branch
+if you need all the code in another branch,you can use git merge
